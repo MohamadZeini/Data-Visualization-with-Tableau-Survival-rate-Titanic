@@ -4,4 +4,4 @@ See the project on (https://public.tableau.com/profile/mo2344#!/vizhome/P8_final
 
 For introduction see **P8.ipynb** file.
 
-In addition you can find the Tableau file saved in **P8.twbx**
+In addition you can find the Tableau file saved in **P8.twbx**.
