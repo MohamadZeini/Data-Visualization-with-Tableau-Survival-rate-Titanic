@@ -32,4 +32,4 @@ Opent the `P8.twbx` in Tableau software enviroment.
 ## File List
 
 1) `P8.twbx`
-
+2) `titanic_data.csv`
